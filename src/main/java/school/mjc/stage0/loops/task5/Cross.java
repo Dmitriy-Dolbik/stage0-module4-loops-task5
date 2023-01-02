@@ -3,7 +3,7 @@ package school.mjc.stage0.loops.task5;
 public class Cross {
     public static void main(String[] args) {
         Cross cross = new Cross();
-        cross.printCross(6);
+        cross.printCross(5);
     }
 
     public void printCross(int sideLength) {
