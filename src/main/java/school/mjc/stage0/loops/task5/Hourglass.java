@@ -15,6 +15,7 @@ public class Hourglass {
                 }
             }
             System.out.println();
+
         }
 
     }

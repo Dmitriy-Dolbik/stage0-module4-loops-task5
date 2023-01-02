@@ -13,6 +13,7 @@ public class Rectangle {
                     System.out.print("8");
                 } else {
                     System.out.print(" ");
+
                 }
             }
             System.out.println();

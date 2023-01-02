@@ -21,6 +21,7 @@ public class Square {
             }
             System.out.println("");
         }
+
         //Второй, более простой вариант
         /*for (int i = 0; i < sideLength; i++) {
             for (int j = 0; j < sideLength; j++) {
